@@ -1,0 +1,4 @@
+ID: 1, Data: 2024-09-08 19:25:38, Tipo: Entrada, Valor: R$ 12.00, Descrição: Pastel
+ID: 2, Data: 2024-09-08 19:25:59, Tipo: Saída, Valor: R$ 5.00, Descrição: Motoboy
+
+Saldo total em caixa: R$ 7.00
